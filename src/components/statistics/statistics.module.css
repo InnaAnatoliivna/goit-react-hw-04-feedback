@@ -1,0 +1,13 @@
+.item:not(:last-child) {
+  margin-bottom: 15px;
+}
+
+.item {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.text {
+  color: var(--color-input);
+  font-size: 20px;
+}
